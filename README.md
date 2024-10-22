@@ -37,8 +37,8 @@ java PhonebookAppGUI
 - Use the menu options to add, search, update, or delete contacts.
 
 ## Contributors
-- **Your Name** (your-username): Lead Developer
-- **Collaborator's Name** (collaborator-username): UI Designer
+- (Kevin, Laurance, Moses, Kondjela ): Lead Developer
+-  (Shiimi, Kevin, Laurance): UI Designer
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
